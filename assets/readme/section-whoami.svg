@@ -2,12 +2,10 @@
   
   <rect width="850" height="110" fill="#08080c"></rect>
   
-  <g transform="translate(0, 38)">
-    <line x1="0" y1="0" x2="26" y2="0" stroke="#9a8cff" stroke-width="1"></line>
-    <text x="36" y="4" class="mono" fill="#9a8cff" font-size="11" letter-spacing="3">01 — ABOUT</text>
-  </g>
+  <line x1="0" y1="38" x2="26" y2="38" stroke="#9a8cff" stroke-width="1"></line>
+  <text x="36" y="42" font-family="&#39;JetBrains Mono&#39;, ui-monospace, &#39;SF Mono&#39;, Consolas, monospace" fill="#9a8cff" font-size="11" letter-spacing="3">01 — ABOUT</text>
   
-  <text x="0" y="92" class="serif ink" font-size="48">About <tspan class="serif-i ink-2">who I am.</tspan></text>
+  <text x="0" y="92" font-family="&#39;Instrument Serif&#39;, &#39;Source Serif 4&#39;, Georgia, serif" fill="#f4f4f8" font-size="48">About <tspan font-style="italic" fill="#c8c8d4">who I am.</tspan></text>
   
   <line x1="0" y1="109" x2="850" y2="109" stroke="rgba(255,255,255,0.08)" stroke-width="1"></line>
 </svg>

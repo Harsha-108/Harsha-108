@@ -1,13 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="280" viewBox="0 0 850 280" role="img" aria-label="Harsh Choudhary — Founding AI Engineer">
   
-  
   <defs>
     <radialGradient id="halo1" cx="20%" cy="40%" r="60%">
-      <stop offset="0%" stop-color="#9a8cff" stop-opacity="0.28"></stop>
+      <stop offset="0%" stop-color="#9a8cff" stop-opacity="0.32"></stop>
       <stop offset="60%" stop-color="#9a8cff" stop-opacity="0"></stop>
     </radialGradient>
     <radialGradient id="halo2" cx="90%" cy="70%" r="50%">
-      <stop offset="0%" stop-color="#ff7ab6" stop-opacity="0.18"></stop>
+      <stop offset="0%" stop-color="#ff7ab6" stop-opacity="0.22"></stop>
       <stop offset="60%" stop-color="#ff7ab6" stop-opacity="0"></stop>
     </radialGradient>
     <linearGradient id="brandGrad" x1="0" y1="0" x2="1" y2="1">
@@ -16,7 +15,6 @@
       <stop offset="100%" stop-color="#ffb455"></stop>
     </linearGradient>
   </defs>
-
   <rect width="850" height="280" fill="#08080c" rx="18"></rect>
   <rect width="850" height="280" fill="url(#halo1)" rx="18"></rect>
   <rect width="850" height="280" fill="url(#halo2)" rx="18"></rect>
@@ -27,22 +25,16 @@
     <circle cx="6" cy="0" r="5" fill="#34d399">
       
     </circle>
-    <text x="22" y="4" class="mono ink-3" font-size="11" letter-spacing="2.5">BUILDING · OPEN TO COLLAB · 2026</text>
+    <text x="22" y="4" font-family="&#39;JetBrains Mono&#39;, ui-monospace, &#39;SF Mono&#39;, Consolas, monospace" fill="#a8a8b8" font-size="11" letter-spacing="2.5">BUILDING · OPEN TO COLLAB · 2026</text>
   </g>
 
   
-  <text x="48" y="135" class="serif ink" font-size="76">Harsh</text>
-  <text x="48" y="210" class="serif-i" font-size="76" fill="url(#brandGrad)">Choudhary.</text>
+  <text x="48" y="135" font-family="&#39;Instrument Serif&#39;, &#39;Source Serif 4&#39;, Georgia, serif" fill="#f4f4f8" font-size="76">Harsh</text>
+  <text x="48" y="210" font-family="&#39;Instrument Serif&#39;, &#39;Source Serif 4&#39;, Georgia, serif" font-style="italic" fill="url(#brandGrad)" font-size="76">Choudhary.</text>
 
   
-  <text x="48" y="252" class="sans ink-3" font-size="14">Founding AI Engineer · Production agentic systems from 0 → 1</text>
+  <text x="48" y="252" font-family="&#39;Inter&#39;, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, sans-serif" fill="#a8a8b8" font-size="14">Founding AI Engineer · Production agentic systems from 0 → 1</text>
 
   
-  <g transform="translate(740, 36)" opacity="0.6">
-    <text class="mono violet" font-size="11" letter-spacing="2">v2026.05</text>
-  </g>
-  <g transform="translate(650, 240)" opacity="0.7">
-    <line x1="0" y1="0" x2="160" y2="0" stroke="#9a8cff" stroke-width="1"></line>
-    <text x="0" y="-8" class="mono violet" font-size="10" letter-spacing="2">SCROLL ↓</text>
-  </g>
+  <text x="740" y="40" font-family="&#39;JetBrains Mono&#39;, ui-monospace, &#39;SF Mono&#39;, Consolas, monospace" fill="#9a8cff" font-size="11" letter-spacing="2" opacity="0.7">v2026.05</text>
 </svg>
