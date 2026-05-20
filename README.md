@@ -127,16 +127,16 @@
 
 <p align="center">
   <a href="https://github.com/Harsha-108">
-    <img height="170" src="https://github-readme-stats-eight.vercel.app/api?username=Harsha-108&hide_border=true&bg_color=08080C&title_color=9A8CFF&icon_color=9A8CFF&text_color=C8C8D4&include_all_commits=false&count_private=false&show_icons=true&ring_color=9A8CFF" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Harsha-108&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Harsha-108">
-    <img height="170" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Harsha-108&hide_border=true&bg_color=08080C&title_color=9A8CFF&text_color=C8C8D4&layout=compact&langs_count=8" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-108&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Harsha-108">
-    <img src="https://streak-stats.demolab.com/?user=Harsha-108&hide_border=true&background=08080C&stroke=9A8CFF&ring=9A8CFF&fire=FF7AB6&currStreakLabel=9A8CFF&sideLabels=C8C8D4&dates=7D7D92" alt="streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-108&theme=dark&hide_border=true" alt="streak" />
   </a>
 </p>
 
