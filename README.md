@@ -127,10 +127,19 @@
 
 <p align="center">
   <a href="https://github.com/Harsha-108">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsha-108&hide_border=true&bg_color=08080C&title_color=9A8CFF&icon_color=9A8CFF&text_color=C8C8D4&include_all_commits=true&count_private=true&show_icons=true&ring_color=9A8CFF" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harsha-108&theme=radical" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Harsha-108">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-108&hide_border=true&bg_color=08080C&title_color=9A8CFF&text_color=C8C8D4&layout=compact&langs_count=8" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsha-108&theme=radical" alt="Repos per language" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Harsha-108">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsha-108&theme=radical" alt="Most-commit languages" />
+  </a>
+  <a href="https://github.com/Harsha-108">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsha-108&theme=radical&utcOffset=5.5" alt="Productive time" />
   </a>
 </p>
 
