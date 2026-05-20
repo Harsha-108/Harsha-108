@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="130" viewBox="0 0 850 130">
+  
+  
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="205" height="130" rx="14" fill="#0d0d14" stroke="rgba(255,255,255,0.08)"></rect>
+      <rect x="0" y="0" width="3" height="130" rx="2" fill="#9a8cff"></rect>
+      <text x="22" y="68" class="serif-i ink" font-size="48" fill="#9a8cff">100+</text>
+      <text x="22" y="100" class="mono ink-4" font-size="10" letter-spacing="2.2">USERS SHIPPING</text>
+    </g>
+    <g transform="translate(215, 0)">
+      <rect x="0" y="0" width="205" height="130" rx="14" fill="#0d0d14" stroke="rgba(255,255,255,0.08)"></rect>
+      <rect x="0" y="0" width="3" height="130" rx="2" fill="#ff7ab6"></rect>
+      <text x="22" y="68" class="serif-i ink" font-size="48" fill="#ff7ab6">150★</text>
+      <text x="22" y="100" class="mono ink-4" font-size="10" letter-spacing="2.2">OPENANALYST STARS</text>
+    </g>
+    <g transform="translate(430, 0)">
+      <rect x="0" y="0" width="205" height="130" rx="14" fill="#0d0d14" stroke="rgba(255,255,255,0.08)"></rect>
+      <rect x="0" y="0" width="3" height="130" rx="2" fill="#5dd6c1"></rect>
+      <text x="22" y="68" class="serif-i ink" font-size="48" fill="#5dd6c1">8mo</text>
+      <text x="22" y="100" class="mono ink-4" font-size="10" letter-spacing="2.2">TO FOUNDING ROLE</text>
+    </g>
+    <g transform="translate(645, 0)">
+      <rect x="0" y="0" width="205" height="130" rx="14" fill="#0d0d14" stroke="rgba(255,255,255,0.08)"></rect>
+      <rect x="0" y="0" width="3" height="130" rx="2" fill="#ffb455"></rect>
+      <text x="22" y="68" class="serif-i ink" font-size="48" fill="#ffb455">5+</text>
+      <text x="22" y="100" class="mono ink-4" font-size="10" letter-spacing="2.2">MODELS IN PROD</text>
+    </g>
+</svg>

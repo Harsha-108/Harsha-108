@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="110" viewBox="0 0 850 110" role="img" aria-label="05 — GitHub right now.">
+  
+  <rect width="850" height="110" fill="#08080c"></rect>
+  
+  <g transform="translate(0, 38)">
+    <line x1="0" y1="0" x2="26" y2="0" stroke="#ffb455" stroke-width="1"></line>
+    <text x="36" y="4" class="mono" fill="#ffb455" font-size="11" letter-spacing="3">05 — GITHUB</text>
+  </g>
+  
+  <text x="0" y="92" class="serif ink" font-size="48">GitHub <tspan class="serif-i ink-2">right now.</tspan></text>
+  
+  <line x1="0" y1="109" x2="850" y2="109" stroke="rgba(255,255,255,0.08)" stroke-width="1"></line>
+</svg>
