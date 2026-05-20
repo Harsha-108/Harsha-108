@@ -17,9 +17,11 @@
   <img src="https://img.shields.io/github/followers/Harsha-108?style=flat-square&label=followers&color=9A8CFF&labelColor=1a1a1a" />
 </p>
 
-<!-- ─── MARQUEE ─── -->
+<!-- ─── MARQUEE (live, animated typing SVG) ─── -->
 <p align="center">
-  <img src="./assets/readme/marquee.svg" alt="" width="100%"/>
+  <a href="https://github.com/Harsha-108">
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=28&pause=900&color=C8C8D4&center=true&vCenter=true&multiline=false&width=850&height=70&lines=Agentic+AI+%E2%9C%A6+RAG+Pipelines+%E2%9C%A6+Multi-Model+Routing;MCP+%E2%9C%A6+LangGraph+%E2%9C%A6+Production+0+%E2%86%92+1;Open+Source+%E2%9C%A6+AWS+Infra+%E2%9C%A6+Claude+Plugins;Multi-Person+CV+%E2%9C%A6+YOLOv7+%E2%9C%A6+NVIDIA+DGX;PostgreSQL+Vectors+%E2%9C%A6+Daytona+%E2%9C%A6+TypeScript" alt="Agentic AI · RAG Pipelines · Multi-Model Routing · MCP · LangGraph · Production 0 → 1 · Open Source · AWS Infra · Claude Plugins · Multi-Person CV · YOLOv7 · NVIDIA DGX · PostgreSQL Vectors · Daytona · TypeScript" />
+  </a>
 </p>
 
 <!-- ─── 01 · ABOUT ─── -->
@@ -36,73 +38,33 @@
 <!-- ─── 02 · WORK ─── -->
 <p align="center"><img src="./assets/readme/section-work.svg" alt="Work" width="100%"/></p>
 
-### `▸` Founding AI Engineer · **OpenAnalyst** (ANM Enablers Pvt. Ltd.) <sup>`May 2025 — Present`</sup>
+<p align="center"><img src="./assets/readme/work-1-openanalyst.svg" alt="Founding AI Engineer · OpenAnalyst — May 2025 to Present" width="100%"/></p>
 
-> *Promoted from Associate AI Engineer in 8 months. Sole AI engineer on a 5-person team building an AI-powered dev environment from inception.*
+<p align="center"><img src="./assets/readme/work-2-nvidia.svg" alt="ML Trainee · NVIDIA GRIL — Jan 2024 to Sep 2024" width="100%"/></p>
 
-- **Led product ideation** day one — built POCs in LangChain/LangSmith, validated AI use cases, shaped a production-grade Agentic AI platform now serving **100+ users**.
-- Built the **core agent loop** and tool-calling system from scratch.
-- Designed **multi-model routing layer** with real-time streaming and context-window management — GPT-4, Claude, Gemini, Llama, Mistral.
-- Engineered **RAG pipelines** and conversation-memory systems for persistent, context-aware sessions.
-- Built the **Claude plugins / MCP / skills compatibility layer** enabling ecosystem interop.
-- Initiated **Daytona** partnership — per-user sandboxed envs, cut startup latency by **10+ s**.
-- Owns full **AWS infra** (CloudFront, ALB, EC2, API Gateway) + Docker microservices.
+<p align="center"><img src="./assets/readme/work-3-practo.svg" alt="Project Intern · Practo — Sep 2024 to Dec 2024" width="100%"/></p>
 
-### `▸` ML Trainee · **NVIDIA GRIL** (Global Research Innovation Lab) <sup>`Jan 2024 — Sep 2024`</sup>
-
-- **PPE-kit violation detection** — **98%** accuracy on NVIDIA DGX A100.
-- **Object segmentation (97%)** + **multi-person face detection (99%)**.
-- Real-time **logo detection** with YOLOv7 + Detectron2.
-- Flask + Docker deployments on CUDA-accelerated DGX A100.
-
-### `▸` Project Intern · **Practo** — Healthcare Analytics <sup>`Sep 2024 — Dec 2024`</sup>
-
-- EDA, correlation, hypothesis testing (t-test, χ², ANOVA) on patient-doctor interaction data.
-- Power BI / Matplotlib / Seaborn dashboards proposing service-delivery improvements.
-
-### `▸` Data Visualization Trainee · **Anudip Foundation** <sup>`Jul 2024 — Sep 2024`</sup>
-
-- Dynamic Power BI / Excel dashboards. Explored AI/ML for predictive models.
+<p align="center"><img src="./assets/readme/work-4-anudip.svg" alt="Data Visualization Trainee · Anudip Foundation — Jul 2024 to Sep 2024" width="100%"/></p>
 
 <!-- ─── 03 · PROJECTS ─── -->
 <p align="center"><img src="./assets/readme/section-projects.svg" alt="Projects" width="100%"/></p>
 
-### [`▸` **OpenAnalyst**](https://github.com/OpenAnalystInc/OpenAnalyst) — open-source AI dev environment
+<p align="center">
+  <a href="https://github.com/OpenAnalystInc/OpenAnalyst"><img src="./assets/readme/project-1-openanalyst.svg" alt="OpenAnalyst — open-source AI dev environment" width="100%"/></a>
+</p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/github/stars/OpenAnalystInc/OpenAnalyst?style=flat-square&logo=github&color=9A8CFF&labelColor=1a1a1a&label=stars" />
   <img src="https://img.shields.io/github/forks/OpenAnalystInc/OpenAnalyst?style=flat-square&logo=github&color=FF7AB6&labelColor=1a1a1a&label=forks" />
   <img src="https://img.shields.io/github/issues/OpenAnalystInc/OpenAnalyst?style=flat-square&logo=github&color=5DD6C1&labelColor=1a1a1a&label=open%20issues" />
   <img src="https://img.shields.io/github/last-commit/OpenAnalystInc/OpenAnalyst?style=flat-square&logo=git&color=FFB455&labelColor=1a1a1a&label=last%20commit" />
 </p>
 
-> AI-powered VS Code extension combining Cline + Roo Code + KiloCode patterns. Data-analytics mode, multi-provider routing (Claude/Gemini/GPT-4), MCP server marketplace. **150★ / 160⑂**.
+<p align="center"><img src="./assets/readme/project-2-rag.svg" alt="Business Automation (RAG) — agentic email pipeline" width="100%"/></p>
 
-`TypeScript`&nbsp;`VS Code`&nbsp;`LangChain`&nbsp;`MCP`&nbsp;`Multi-model`
+<p align="center"><img src="./assets/readme/project-3-face.svg" alt="Multi-Person Face Recognition — real-time CV" width="100%"/></p>
 
----
-
-### `▸` **Business Automation (RAG)** — agentic email pipeline
-
-> n8n + Supabase + Gmail API + OpenAI Embeddings. Categorize email, extract attachments, store vectors in PostgreSQL, query through a chat agent with Retrieval Augmented Generation.
-
-`n8n`&nbsp;`Supabase`&nbsp;`Gmail API`&nbsp;`Embeddings`&nbsp;`RAG`
-
----
-
-### `▸` **Multi-Person Face Recognition** — real-time CV
-
-> Dlib + face_recognition with custom-DB facial embeddings. Live video integration + Gmail API for automated attendance reporting.
-
-`Dlib`&nbsp;`OpenCV`&nbsp;`Flask`&nbsp;`CUDA`&nbsp;`Docker`&nbsp;`NVIDIA A100`
-
----
-
-### `▸` **Weather Forecasting (ML)** — ensemble + anomaly detection
-
-> ARIMA + Prophet + Gradient Boosting ensemble (**MAE 0.198, RMSE 0.225**). Isolation-Forest flagged **2,894 extreme-weather events**. Climate / air-quality maps with GeoPandas.
-
-`ARIMA`&nbsp;`Prophet`&nbsp;`Gradient Boosting`&nbsp;`GeoPandas`&nbsp;`Plotly`
+<p align="center"><img src="./assets/readme/project-4-weather.svg" alt="Weather Forecasting (ML) — ensemble + anomaly detection" width="100%"/></p>
 
 <!-- ─── 04 · STACK ─── -->
 <p align="center"><img src="./assets/readme/section-stack.svg" alt="Stack" width="100%"/></p>
@@ -174,7 +136,7 @@
 
 <p align="center">
   <a href="https://github.com/Harsha-108">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-108&hide_border=true&background=08080C&stroke=9A8CFF&ring=9A8CFF&fire=FF7AB6&currStreakLabel=9A8CFF&sideLabels=C8C8D4&dates=7D7D92" alt="streak" />
+    <img src="https://streak-stats.demolab.com/?user=Harsha-108&hide_border=true&background=08080C&stroke=9A8CFF&ring=9A8CFF&fire=FF7AB6&currStreakLabel=9A8CFF&sideLabels=C8C8D4&dates=7D7D92" alt="streak" />
   </a>
 </p>
 
