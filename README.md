@@ -127,24 +127,6 @@
 
 <p align="center">
   <a href="https://github.com/Harsha-108">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harsha-108&theme=radical" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/Harsha-108">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsha-108&theme=radical" alt="Repos per language" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Harsha-108">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsha-108&theme=radical" alt="Most-commit languages" />
-  </a>
-  <a href="https://github.com/Harsha-108">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsha-108&theme=radical&utcOffset=5.5" alt="Productive time" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Harsha-108">
     <img src="https://streak-stats.demolab.com/?user=Harsha-108&hide_border=true&background=08080C&stroke=9A8CFF&ring=9A8CFF&fire=FF7AB6&currStreakLabel=9A8CFF&sideLabels=C8C8D4&dates=7D7D92" alt="streak" />
   </a>
 </p>
